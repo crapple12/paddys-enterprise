@@ -2,6 +2,7 @@
   "name": "hardware-store",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://crapple12.github.io/paddys-enterprise/",
   "main": "index.js",
   "scripts": {
     "build": "webpack",
